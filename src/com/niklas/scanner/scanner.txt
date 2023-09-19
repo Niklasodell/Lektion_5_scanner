@@ -10,3 +10,5 @@ En scanner är en datatyp.
 
 "Return" ok "break" fyller typ samma funktion.
 
+// git push -u origin <BRANCH_NAME> //
+
