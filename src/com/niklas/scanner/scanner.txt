@@ -1,0 +1,12 @@
+En scanner är en datatyp.
+
+        System.out.println("PLEASE INSERT A RANDOM WORD");
+        scan.nextLine();
+
+        System.out.println("PLEASE INSERT A RANDOM WORD");
+        scan.nextLine();
+
+"Static" ska aldrig användas när man jobbar med olika klasser.
+
+"Return" ok "break" fyller typ samma funktion.
+
