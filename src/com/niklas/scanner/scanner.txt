@@ -12,3 +12,5 @@ En scanner är en datatyp.
 
 // git push -u origin <BRANCH_NAME> //
 
+"Scanner.next" och "Scanner.nextline" ska aldrig kombineras.
+
